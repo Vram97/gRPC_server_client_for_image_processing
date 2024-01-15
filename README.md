@@ -1,7 +1,6 @@
 # gRPC_server_client_for_image_processing
 
 ## Contents
-- Space Apocalypse
   - [1. Introduction](#1-introduction)
   - [2. Setup](#2-setup)
   - [3. Run](#3-run)
@@ -39,4 +38,4 @@ To build the code and generate the client and server executables, run:
   - The mean flag is a boolean flag that you can use if you want to perform mean filtering
 
 ## 5. Output
-![Working GIF](https://github.com/Vram97/gRPC_server_client_for_image_processing/blob/main/grpc.gif)
+![Working GIF](https://github.com/Vram97/gRPC_server_client_for_image_processing/blob/master/grpc.gif)
