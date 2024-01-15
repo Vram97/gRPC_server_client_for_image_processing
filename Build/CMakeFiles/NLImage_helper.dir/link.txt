@@ -1,0 +1,2 @@
+/usr/bin/ar qc libNLImage_helper.a CMakeFiles/NLImage_helper.dir/src/image_helper.cpp.o
+/usr/bin/ranlib libNLImage_helper.a

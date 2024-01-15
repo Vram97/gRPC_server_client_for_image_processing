@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Create build directory if not exists
+mkdir -p Build
+
+# Navigate to the build directory
+cd Build
+
+# Run cmake
+cmake ..
+
+# Run make
+make
+
+#Move files to the top directory
+mv client ../
+
+mv server ../

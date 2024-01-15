@@ -1,0 +1,6 @@
+/home/shivaram/Code/Project/gRPC_server_client_for_image_processing/Build/CMakeFiles/rebuild_cache.dir
+/home/shivaram/Code/Project/gRPC_server_client_for_image_processing/Build/CMakeFiles/rg_grpc_proto.dir
+/home/shivaram/Code/Project/gRPC_server_client_for_image_processing/Build/CMakeFiles/edit_cache.dir
+/home/shivaram/Code/Project/gRPC_server_client_for_image_processing/Build/CMakeFiles/NLImage_helper.dir
+/home/shivaram/Code/Project/gRPC_server_client_for_image_processing/Build/CMakeFiles/client.dir
+/home/shivaram/Code/Project/gRPC_server_client_for_image_processing/Build/CMakeFiles/server.dir
